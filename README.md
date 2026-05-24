@@ -28,41 +28,47 @@ Passionate about building real-world tech solutions using code 🚀
 
 ---
 
-# 🛠️ Tech Universe
+# 🛸 Tech Universe
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange"/>
 
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+<br><br><br>
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2196F3"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F1502F"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br><br><br>
+
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
 
 </p>
 
 <p align="center">
 
-✨ 🚀 💻 ⚡ 🌌 🎯 🔥 ☕ 🎨
+✨ ─── ⋆⋅☆⋅⋆ ─── 🚀 ─── ⋆⋅☆⋅⋆ ─── 💻 ─── ⋆⋅☆⋅⋆ ─── ⚡
 
 </p>
 
@@ -78,7 +84,7 @@ Passionate about building real-world tech solutions using code 🚀
 
 ### 💻 Coding
 
-Turning ideas into real projects
+Turning ideas into real-world projects
 
 </td>
 
@@ -86,7 +92,7 @@ Turning ideas into real projects
 
 ### 🧠 Problem Solving
 
-Practicing DSA & logical thinking
+Practicing DSA & improving logical thinking
 
 </td>
 
@@ -104,11 +110,11 @@ Learning AI & modern development
 
 ---
 
-# 🌌 Fun Zone
+# 🌌 Developer Vibes
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rakshit-Singh2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 </p>
 
@@ -132,13 +138,13 @@ Learning AI & modern development
 <p align="center">
 
 <a href="mailto:rakshitsinghrajput44@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Rakshit-Singh2004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>

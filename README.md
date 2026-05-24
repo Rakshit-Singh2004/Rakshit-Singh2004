@@ -8,9 +8,13 @@ Engineering Student • Developer • AI Enthusiast
 Passionate about building real-world tech solutions using code 🚀
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Future+Software+Engineer;AI+Explorer;Problem+Solver;Learning+Something+New+Everyday" />
+</p>
 
 ---
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 👨‍💻 About Me
 
@@ -20,64 +24,104 @@ Passionate about building real-world tech solutions using code 🚀
 - 🌱 Currently learning DSA, Full Stack Development & AI
 - ⚡ Exploring modern technologies and scalable applications
 
+<br>
+
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Universe
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-<img src="https://skillicons.dev/icons?i=python" height="60"/>
-<img src="https://skillicons.dev/icons?i=java" height="60"/>
-<img src="https://skillicons.dev/icons?i=html" height="60"/>
-<img src="https://skillicons.dev/icons?i=css" height="60"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+
+</p>
+
+<p align="center">
+
+✨ 🚀 💻 ⚡ 🌌 🎯 🔥 ☕ 🎨
 
 </p>
 
 ---
 
-# 🚀 What I Do
+# 🚀 What I Love Doing
 
 <table align="center">
+
 <tr>
-<td align="center" width="220">
 
-### 💻 Code
-Building efficient and scalable applications
+<td align="center" width="250">
 
-</td>
+### 💻 Coding
 
-<td align="center" width="220">
-
-### 🧠 Solve
-Improving logical thinking and DSA skills
+Turning ideas into real projects
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="250">
 
-### 🚀 Build
-Creating real-world projects and solutions
+### 🧠 Problem Solving
+
+Practicing DSA & logical thinking
 
 </td>
+
+<td align="center" width="250">
+
+### 🚀 Exploring Tech
+
+Learning AI & modern development
+
+</td>
+
 </tr>
+
 </table>
 
 ---
 
-# 🌌 Fun Tech Zone
+# 🌌 Fun Zone
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Software+Developer;Problem+Solver;Always+Learning+New+Things" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rakshit-Singh2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+🌱 Data Structures & Algorithms  
+⚡ Full Stack Development  
+🤖 Artificial Intelligence  
+🚀 Real-World Project Building
 
 </p>
 
@@ -88,11 +132,13 @@ Creating real-world projects and solutions
 <p align="center">
 
 <a href="mailto:rakshitsinghrajput44@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Rakshit-Singh2004">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -102,13 +148,15 @@ Creating real-world projects and solutions
 # ✨ Quote
 
 <h3 align="center">
+
 💡 "Building Skills Today for Tomorrow's Technology"
+
 </h3>
 
 ---
 
 <p align="center">
-  
+
 ⭐ From <a href="https://github.com/Rakshit-Singh2004">Rakshit-Singh2004</a>
 
 </p>

@@ -28,47 +28,11 @@ Passionate about building real-world tech solutions using code 🚀
 
 ---
 
-# 🛸 Tech Universe
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange"/>
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5722"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2196F3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F1502F"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-
-<br><br><br>
-
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF"/>
-
-</p>
-
-<p align="center">
-
-✨ ─── ⋆⋅☆⋅⋆ ─── 🚀 ─── ⋆⋅☆⋅⋆ ─── 💻 ─── ⋆⋅☆⋅⋆ ─── ⚡
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,javascript,git,github,vscode,mysql" />
 
 </p>
 

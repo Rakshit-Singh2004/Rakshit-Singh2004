@@ -9,7 +9,7 @@ Passionate about building real-world tech solutions using code 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Future+Software+Engineer;AI+Explorer;Problem+Solver;Learning+Something+New+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Engineering+Student;Software+Engineer;AI+Explorer;Problem+Solver;Learning+Something+New+Everyday" />
 </p>
 
 ---
